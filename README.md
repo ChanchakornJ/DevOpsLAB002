@@ -207,3 +207,5 @@ Emoji:
     
 :mask: 
 
+Linn Latt Yamone 672115506
+
